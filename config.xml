@@ -2,7 +2,7 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap= "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app8"
+  id = "com.phonegap.app8b"
   version = "1.0.0">
   
   <name>app8 Geolocalización con google maps</name>
@@ -30,12 +30,10 @@
   <plugin name="cordova-plugin-geolocation" spec"2.4.3"/>
 
   <!--Para accesar a paginas de internet-->
- <allow-intent href="htpps://*/*"/>
- <access origin="htpps://*/*"/>
+ <allow-intent href="https://*/*"/>
+ <access origin="https://*/*"/>
  <allow-intent href="http://*/*"/>
  <access origin="htpp://*/*"/>
- <access origin="*" />
- <allow-intent href="*" />
  <plugin name="cordova-plugin-whitelist" source="npm"/>
   <!--Colocar icono app-->
   <icon src="res/android/mdpi.png"/>
