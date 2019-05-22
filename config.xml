@@ -5,10 +5,10 @@
   id = "com.phonegap.app8"
   version = "1.0.0">
   
-  <name> app3-2019 Día mundial de la salud</name>
+  <name> App8 Geolocalización con google</name>
   
   <description>
-   Aplicacion que nos muestra la informacion sobre la especialidad técnico en programación CBTis
+   Aplicacion que nos muestra la ubicación del dispositivo de acuerdo al GPS
   </description>
   
   <author href="https://build.phonegap.com" email="javierr.morales39@gmail.com">
