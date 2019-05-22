@@ -2,7 +2,7 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap= "http://phonegap.com/ns/1.0"
-  id = "com.phonegap.app8b"
+  id = "com.phonegap.app8"
   version = "1.0.0">
   
   <name>app8 Geolocalización con google maps</name>
